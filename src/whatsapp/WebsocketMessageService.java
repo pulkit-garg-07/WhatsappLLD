@@ -1,5 +1,4 @@
-package src;
-
+package whatsapp;
 public class WebsocketMessageService implements MessageService{
     @Override
     public void sendMessage(User user, Message message) {

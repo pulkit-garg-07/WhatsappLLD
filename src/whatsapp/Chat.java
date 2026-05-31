@@ -1,5 +1,4 @@
-package src;
-
+package whatsapp;
 import java.util.List;
 
 public class Chat {

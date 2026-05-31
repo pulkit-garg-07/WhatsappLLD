@@ -1,5 +1,4 @@
-package src;
-
+package whatsapp;
 import java.time.LocalDateTime;
 
 public class Message {
